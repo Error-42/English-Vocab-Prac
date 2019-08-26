@@ -1,0 +1,60 @@
+body{
+    background-color: #101010;
+}
+div.header {
+    color: #f0f0f0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 5vh;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+    line-height: 120%;
+}
+h1.subheader {
+    color: #f0f0f0;
+    font-family: "Raleway", sans-serif;
+    font-size: 3vh;
+    margin-top: 3vh;
+    margin-bottom: 0px;
+}
+p.paragraphNormal {
+    color: #f0f0f0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 2vh;
+    margin-top: 0px;
+    text-align: justify;
+}
+button.changeLanguage{
+    padding: 1vh;
+    width: 30vh;
+    outline: none;
+    border: none;
+    font-size: 2vh;
+    font-family: 'Open Sans', sans-serif;
+    color: #f0f0f0;
+    cursor: pointer;
+    background-color: #00a000;
+}
+button.changeLanguage:hover{
+    background-color: #008000;
+}
+button.changeLanguage:active{
+    background-color: #f0f0f0;
+}
+button.toUnits{
+    padding: 1vh;
+    width: 30vh;
+    outline: none;
+    border: none;
+    font-size: 2vh;
+    font-family: 'Open Sans', sans-serif;
+    color: #f0f0f0;
+    cursor: pointer;
+    background-color: #00a000;
+    width: 100%;
+}
+button.toUnits:hover{
+    background-color: #008000;
+}
+button.toUnits:active{
+    background-color: #f0f0f0;
+}
