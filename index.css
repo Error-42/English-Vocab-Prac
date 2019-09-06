@@ -1,0 +1,69 @@
+body{
+    margin: 0px;
+    background-color: #101010;
+    color: #f0f0f0;
+}
+div#title{
+    margin-top: 4vh;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 8vw;
+    text-align: center;
+}
+div#titleHun{
+    margin-top: 1vh;
+    margin-bottom: 4vh;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 4vw;
+    text-align: center;
+}
+/* div.unitRow{
+    margin-left: 1vw;
+    margin-right: 1vw;
+} */
+button.unitButton{
+    padding: 1vh;
+    width: 30vw;
+    outline: none;
+    border: none;
+    font-size: 3vw;
+    font-family: 'Montserrat';
+    color: #f0f0f0;
+    cursor: pointer;
+}
+button.unitButton.unitComplete{
+    background-color: #00a000;
+}
+button.unitButton.unitComplete:hover{
+    background-color: #008000;
+}
+button.unitButton.unitIncomplete{
+    background-color: #a0a000;
+}
+button.unitButton.unitIncomplete:hover{
+    background-color: #808000;
+}
+button.unitButton#sendFeedback{
+    background-color: #0050a0;
+}
+button.unitButton#sendFeedback:hover{
+    background-color: #004080;
+}
+button.unitButton:active{
+    background-color: #f0f0f0;
+}
+button.unitButton{
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+span.unitText{
+    margin-left: 1vh;
+    font-size: 3.5vw;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.unitBtnColor {
+    margin: 1vh;
+    font-family: "Open Sans", serif;
+    font-size: 3vw;
+}
