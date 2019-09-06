@@ -1,0 +1,11 @@
+{
+    "last_updated": "16th June, 2019",
+    "words": [
+        ["macska", ["cat"], []],
+        ["busz", ["bus"], []],
+        ["szín", ["colour"], ["color"]],
+        ["ülni", ["sit", "to sit"], []],
+        ["valami", ["something"], []],
+        ["test", ["testA", "testB", "testC", "testD"], ["test1"]]
+    ]
+}
